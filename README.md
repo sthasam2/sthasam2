@@ -1,5 +1,7 @@
 # Sambeg Shrestha 
-👋 Howdy!
+[![HitCount](http://hits.dwyl.com/sthasam2.svg)](http://hits.dwyl.com/sthasam2)
+
+## 👋 Howdy!
 
 <!--
 Here are some ideas to get you started:
