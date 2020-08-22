@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🦸 Highly interested in *Mobile* development.
 
 ![](https://github-readme-stats.vercel.app/api?username=sthasam2&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthasam2&show_icons=true&hide_border=true)
 
 ### Find me at
 
