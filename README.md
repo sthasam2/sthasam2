@@ -1,4 +1,4 @@
-# Sambeg Shrestha 
+# Sam Stha 
 <!-- [![HitCount](http://hits.dwyl.com/sthasam2.svg)](http://hits.dwyl.com/sthasam2) -->
 
 ## 👋 Howdy!
